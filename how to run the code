@@ -1,0 +1,11 @@
+it is easy to run the code  by following my instructions to run in your pc.
+  Firstly you should install node modules
+to run the code and your in terimal , now
+  npm install
+use the upper command in your terminal box and 
+npm audit
+run this in terminal box, again 
+  npm run dev
+you get the local host link and click on the link and press enter.
+  you get the actual website.
+  
